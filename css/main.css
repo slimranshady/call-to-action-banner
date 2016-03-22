@@ -56,14 +56,14 @@ a {
   color: white;
 }
 
+.banner {
+  max-height: 500px;
+}
+
 .btn-big {
   font-size: 1.5rem;
 }
 
 .btn:hover {
   background-color: #ccc;
-}
-
-.banner {
-  max-height: 500px;
 }
